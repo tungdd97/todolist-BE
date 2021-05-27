@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+Peewee
+peewee-validates
+PyMysql
+pycrypto
+pyjwt
